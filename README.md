@@ -6,3 +6,4 @@ print("yippee")
           50 : 25 : 10 : 10 : 5
 -Card 10  Ex : illustration rare : ultra rare : special : hyper
           50 : 25 : 10 : 10 : 5
+Total 200 - 150 normal + 50 rares
