@@ -1,2 +1,2 @@
 # Pokemon
-yippee
+print("yippee")
